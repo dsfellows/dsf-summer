@@ -48,7 +48,7 @@ Reclaim's file manager is set up to only let you upload a single file at a time 
 
 + Create a zip file of the folder containing your edited html5up theme by selecting the folder (NOT the files inside) and compressing it.
 
-![Compressing a folder](dsfellows/dsfellows/html5up-images/html5up-0.png)
+![Compressing a folder](/html5up-images/html5up-0.png)
 
 + Open the Reclaim file manager. Open the public_html folder, then click Upload (in the gray menu bar). A page that looks like this will pop up. Upload your zip folder, making sure you're placing it in the public_html folder.
 
