@@ -4,15 +4,11 @@
 
 [Whitney Trettien](http://whitneyannetrettien.com/)
 
-[Paul Farber](http://www.paulfarber.com/)
-
 [Nabil Kashyap](http://www.nabilk.com/)
 
-[Tania Bruguera](http://www.taniabruguera.com/cms/)
+[David Hartt](http://davidhartt.net/)
 
 [Mel Chin](http://melchin.org/)
-
-[David Hartt](http://davidhartt.net/)
 
 # Brainstorm: what could you do with your domain?
 

@@ -57,10 +57,15 @@
 # Assignments
 
 By *Friday, June 2nd*:
-+ Read ["What's Next: The Radical, Unrealized Potential of Digital Humanities"](http://miriamposner.com/blog/whats-next-the-radical-unrealized-potential-of-digital-humanities/) by Miriam Posner
-+ Pick one of the projects mentioned in the article. Explore it and be ready to speak informally to your peers about what data it draws on, how it represents that data, and how it relates to Posner's piece.
+
+- Read ["What's Next: The Radical, Unrealized Potential of Digital Humanities"](http://miriamposner.com/blog/whats-next-the-radical-unrealized-potential-of-digital-humanities/) by Miriam Posner
+
+- Pick one of the projects mentioned in the article. Explore it and be ready to speak informally to your peers about what data it draws on, how it represents that data, and how it relates to Posner's piece.
 
 By *Wednesday, June 7th*:
-+ Write up a question that you’d like to ask of the ML data and write a paragraph about it.
-+ Find and bring in a model for what you aspire to do with the data.
-+ Create a draft visualization, or set of visualizations (can be drawn, data-based, etc.)
+
+- Write up a question that you’d like to ask of the ML data and write a paragraph about it.
+
+- Find and bring in a model for what you aspire to do with the data.
+
+- Create a draft visualization, or set of visualizations (can be drawn, data-based, etc.)
