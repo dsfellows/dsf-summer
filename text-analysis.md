@@ -10,7 +10,7 @@
 
 ## A corpus of Philadelphia-related texts from the 19th century
 
-[Download, unzip, and take a look at the contents.](https://github.com/dsfellows/dsfellows/blob/master/week_9_materials.zip)
+[Download, unzip, and take a look at the contents.](https://github.com/dsfellows/dsf-summer/blob/master/text-analysis-files.zip)
 
 
 ## Voyant
